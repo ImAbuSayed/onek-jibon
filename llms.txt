@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Onek Jibon |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 06, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/onek-jibon/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অন্ধকারে খুঁজি আমি তোমার ওই আলো
+> অচিন দেশে আজ কেন বাসলে আমায় ভালো
+> অনেক জীবন পেরিয়ে এসে দাঁড়িয়েছি আজ
+> চোখের ভাষায় লুকিয়ে আছে ভালোবাসার সাজ
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
