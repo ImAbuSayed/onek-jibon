@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Onek Jibon
+
+This log tracks the cryptographic history and versioning for the song **Onek Jibon** (onek-jibon).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:01:45.841074 | `v1` | `8abb711862b35881ec83a9561a4482c85b62f240e7a62dcea29945c04dbf1971` | `772c76f47f7b13a62dc158f502a0621c8961bf3da2326ec0565c7df7ccd841de` | `2026-05-08_onek-jibon-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
